@@ -35,4 +35,7 @@ Commiting our files to github repository
 Git push
 1. git push origin main
 
-Git Add
+git add .
+git status
+git commit -m "commit message"
+git push origin main 
